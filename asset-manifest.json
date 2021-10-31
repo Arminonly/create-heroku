@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Arminonly/create-heroku.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Arminonly/create-heroku.git/static/js/main.3c1d85d0.chunk.js",
+    "main.js.map": "/Arminonly/create-heroku.git/static/js/main.3c1d85d0.chunk.js.map",
+    "runtime-main.js": "/Arminonly/create-heroku.git/static/js/runtime-main.9f89a9d5.js",
+    "runtime-main.js.map": "/Arminonly/create-heroku.git/static/js/runtime-main.9f89a9d5.js.map",
+    "static/js/2.a17db22c.chunk.js": "/Arminonly/create-heroku.git/static/js/2.a17db22c.chunk.js",
+    "static/js/2.a17db22c.chunk.js.map": "/Arminonly/create-heroku.git/static/js/2.a17db22c.chunk.js.map",
+    "static/js/3.f498d2c1.chunk.js": "/Arminonly/create-heroku.git/static/js/3.f498d2c1.chunk.js",
+    "static/js/3.f498d2c1.chunk.js.map": "/Arminonly/create-heroku.git/static/js/3.f498d2c1.chunk.js.map",
+    "index.html": "/Arminonly/create-heroku.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Arminonly/create-heroku.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a17db22c.chunk.js.LICENSE.txt": "/Arminonly/create-heroku.git/static/js/2.a17db22c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Arminonly/create-heroku.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f89a9d5.js",
+    "static/js/2.a17db22c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3c1d85d0.chunk.js"
+  ]
+}
